@@ -1,0 +1,12 @@
+"Acredite no seu potencial, mesmo que ninguém mais acredite."
+"Cada passo pequeno te leva mais perto dos seus grandes sonhos."
+"O fracasso é só uma pausa, não o fim da jornada."
+"Você é mais forte do que imagina, só precisa começar para descobrir."
+"Transforme seus medos em combustível para suas conquistas."
+"O hoje é o dia perfeito para construir o futuro que você quer."
+"Não espere o momento ideal, faça o momento ser ideal."
+"Suas limitações existem só até você decidir superá-las."
+"A persistência é o segredo que transforma sonhos em realidade."
+"Você não precisa ser perfeito, só precisa ser corajoso."
+
+teste 1
